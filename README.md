@@ -30,3 +30,4 @@ gulp package-solution - TODO
 ## Mobile
 ![image](https://user-images.githubusercontent.com/19554935/52171164-f6d5f100-2725-11e9-9063-781e80675640.png)
 ## Tablet
+![image](https://user-images.githubusercontent.com/19554935/52171184-4f0cf300-2726-11e9-93ac-8e87ff3abe94.png)
